@@ -1,27 +1,33 @@
-# Ideal
+<h1 align="center">
+ 💡 Ideal
+</h1>
 
-This is a C++ implementation of the minimum variance unbiased estimator for a Poisson likelihood with Python bindings.
+<div align="center">
+<i>This is a header-only C++ implementation & Python bindings of the uniform minimum variance unbiased estimator (UMVUE) for a Poisson likelihood in the context of collider physics. </i>
+</div>
 
-# Install
+## ✨ Install
 
-## Through pip
+### Through pip
+
+This installs the module by compiling the C++ on the fly:
 
     pip install .
     
-## Through cmake
+### Through cmake
 
     mkdir build
     cd build
     cmake ..
     make
     
-# Tests
+## Test
 
-Run
+Test the code by running
 
     pytest .
     
-# Usage
+## Run
 
 See `./examples` for C++ example. For Python, try e.g.,
 
