@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<i>This is a header-only C++ implementation & Python bindings of the uniform minimum variance unbiased estimator (UMVUE) for a Poisson likelihood in the context of collider physics. </i>
+<i>Header-only C++ implementation & Python bindings of the uniform minimum variance unbiased estimator (UMVUE) for a Poisson likelihood in the context of collider physics. </i>
 </div>
 
 ## ✨ Install
